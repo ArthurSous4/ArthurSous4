@@ -12,9 +12,11 @@
 
 ### Cursando:
  
-## *Engenharia da computação 5/10
+## ⌛🎓Engenharia da computação 5/10
+   (UNINASSAU GRAÇAS; RECIFE-PE)
 
 ### Cursado:
 
-## *Técnico em Redes de Computadores 
+## 🎓Técnico em Redes de Computadores 
+   (ETE GEC)
 
