@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=header"/>
 
 ### Olá, Bem vindo ao meu perfil
 
@@ -9,8 +9,8 @@
 
 ## Estatísticas 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSous4&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSous4&layout=compact)](https://github.com/ArthurSous4/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSous4&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSous4&layout=compact&show_icons=true&theme=dark)](https://github.com/ArthurSous4/github-readme-stats)
 
 ### Cursando:
  
@@ -22,4 +22,4 @@
 ## 🎓Técnico em Redes de Computadores 
    (ETE GEC)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=footer"/>
