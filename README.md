@@ -9,7 +9,7 @@
 
 ## Estatísticas 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSous4&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSous4&show_icons=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSous4&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ArthurSous4/github-readme-stats)
 
 ### Cursando:
