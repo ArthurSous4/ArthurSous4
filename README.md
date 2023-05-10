@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=header"/>
 
-### Olá, Bem vindo ao meu perfil
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="OLÁ, MEU NOME É ARTHUR!!" src="./assets/gh-readme-header.png" /></a></p>
 
 ### Redes sóciais
 
