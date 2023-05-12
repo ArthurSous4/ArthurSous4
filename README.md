@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=header"/>
 
-<h1 align="center"> Olá, meu nome é Arthur!! Bem vindo ao meu perfil :) </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=700&color=F7F7F7&background=FFFFFF00&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil!!;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
 ### Redes sóciais
 
