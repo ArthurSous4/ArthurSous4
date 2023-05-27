@@ -23,7 +23,7 @@
 ## ⌛🎓Engenharia da computação 5/10
    (UNINASSAU GRAÇAS; RECIFE-PE)
 
-### Cursado:
+## Cursado:
 
 ## 🎓Técnico em Redes de Computadores 
    (ETE GEC)
