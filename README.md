@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&center=true&vCenter=true&width=800&height=100&lines=Olá!!+Meu+Nome+é+Arthur;Bem+Vindo+Ao+Meu+Perfil!!&color=#8a5ac7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&center=true&vCenter=true&width=800&height=100&lines=OLÁ!!+Meu+Nome+é+Arthur;Bem+Vindo+Ao+Meu+Perfil!!&color=#8a5ac7)](https://git.io/typing-svg)
 
 <div align="center">
     <img src=https://i.redd.it/yym6g64zyn5a1.jpg alt=personalifivibes style="width: 50%">
