@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&center=true&vCenter=true&width=800&height=100&lines=Olá!!+Meu+Nome+é+Arthur;Bem+Vindo+Ao+Meu+Perfil!!&color=193549)](https://git.io/typing-svg)
 
 <div align="center">
-    <img src=https://i.redd.it/yym6g64zyn5a1.jpg alt=personalifivibes style="width: 75%">
+    <img src=https://i.redd.it/yym6g64zyn5a1.jpg alt=personalifivibes style="width: 50%">
 </p>
 
 ## Estatísticas 
