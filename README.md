@@ -11,9 +11,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSous4&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSous4&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ArthurSous4/github-readme-stats)
 
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+## Aprendendo:
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center"><br>
+  <img align="center" alt="ArthurSous4-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="ArthurSous4-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="agedanna-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+                
 
 ### Redes sóciais
 
