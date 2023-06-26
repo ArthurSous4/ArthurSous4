@@ -30,7 +30,7 @@
    (UNINASSAU GRAÇAS; RECIFE-PE)
 
 ## ⌛🚀 Condomínio Digital 4.0
-    (Softex Porto Digital; RECIFE_PE)
+   (Softex Porto Digital; RECIFE_PE)
 
 ## Cursado:
 
