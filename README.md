@@ -26,7 +26,7 @@
 
 ## Cursando:
  
-## ⌛🎓Engenharia da computação 5/10
+## ⌛🎓Engenharia da computação 6/10
    (UNINASSAU GRAÇAS; RECIFE-PE)
 
 ## ⌛🚀 Condomínio Digital 4.0
