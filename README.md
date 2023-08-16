@@ -8,15 +8,18 @@
 
 ## Estatísticas 
 
-![ArthurSous4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSous4&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSous4&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ArthurSous4/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/ArthurSous4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurSous4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSous4&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## Aprendendo:
 
 <div align="center"><br>
   <img align="center" alt="ArthurSous4-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="ArthurSous4-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="agedanna-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="ArthurSous4-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
                 
 
 ### Redes sóciais
