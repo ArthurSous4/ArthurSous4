@@ -32,10 +32,10 @@
 ## ⌛🎓Engenharia da computação 6/10
    (UNINASSAU GRAÇAS; RECIFE-PE)
 
-## ⌛🚀 Condomínio Digital 4.0
-   (Softex Porto Digital; RECIFE_PE)
-
 ## Cursado:
+
+## 🚀 Condomínio Digital 4.0
+   (Softex Porto Digital; RECIFE_PE)
 
 ## 🎓Técnico em Redes de Computadores 
    (ETE GEC)
