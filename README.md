@@ -1,10 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&center=true&vCenter=true&width=800&height=100&lines=OLÁ!!+Meu+Nome+é+Arthur;Bem+Vindo+Ao+Meu+Perfil!!&color=#8a5ac7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=32&center=true&vCenter=true&width=800&height=100&lines=Bem-vindo+ao+perfil+de+Arthur;Desenvolvedor+apaixonado+por+tecnologia.&color=#1a73e8)](https://git.io/typing-svg)
 
-<div align="center">
-    <img src=https://i.redd.it/yym6g64zyn5a1.jpg alt=personalifivibes style="width: 50%">
-</p>
+
+
 
 ## Estatísticas 
 
@@ -23,7 +22,10 @@
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                
+
+## Técnologias Utilizadas:
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Redes sóciais
 
