@@ -34,7 +34,7 @@
 
 ## Cursando:
  
-## ⌛🎓Engenharia da computação 7/10
+## ⌛🎓Engenharia da computação 8/10
    (UNINASSAU GRAÇAS; RECIFE-PE)
 
 ## Cursado:
